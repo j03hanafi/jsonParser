@@ -1,0 +1,240 @@
+{
+  "FIToFICstmrCdtTrf": {
+    "GrpHdr": {
+      "MsgId": null,
+      "CreDtTm": "0001-01-01T00:00:00Z",
+      "NbOfTxs": "",
+      "TtlIntrBkSttlmAmt": {
+        "Value": 0,
+        "Ccy": ""
+      },
+      "IntrBkSttlmDt": "0001-01-01Z",
+      "SttlmInf": {
+        "SttlmMtd": "",
+        "SttlmAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "ClrSys": {},
+        "InstgRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "InstgRmbrsmntAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "InstdRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "InstdRmbrsmntAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "ThrdRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "thrd-rmbrsmnt-agt-acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        }
+      },
+      "PmtTpInf": {
+        "LclInstrm": {},
+        "CtgyPurp": {}
+      },
+      "InstgAgt": {
+        "FinInstnId": {
+          "ClrSysMmbId": {
+            "ClrSysId": {
+              "Cd": "",
+              "Prtry": ""
+            },
+            "MmbId": ""
+          },
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Othr": {
+            "Id": "",
+            "SchmeNm": {}
+          }
+        },
+        "BrnchId": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          }
+        }
+      },
+      "InstdAgt": {
+        "FinInstnId": {
+          "ClrSysMmbId": {
+            "ClrSysId": {
+              "Cd": "",
+              "Prtry": ""
+            },
+            "MmbId": ""
+          },
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Othr": {
+            "Id": "",
+            "SchmeNm": {}
+          }
+        },
+        "BrnchId": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "CdtTrfTxInf": null
+  }
+}

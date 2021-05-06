@@ -1,0 +1,48 @@
+{
+  "FIToFICstmrCdtTrf": {
+    "GrpHdr": {
+      "MsgId": "20210301INDOIDJA51012345678",
+      "CreDtTm": "2021-03-01T19:00:00Z",
+      "NbOfTxs": "1",
+      "SttlmInf": {
+        "SttlmMtd": "CLRG"
+      }
+    },
+    "CdtTrfTxInf": [
+      {
+        "PmtId": {
+          "EndToEndId": "20210301INDOIDJA510ORB12345678",
+          "TxId": "20210301INDOIDJA11012345678"
+        },
+        "IntrBkSttlmAmt": {
+          "Value": "1234.56",
+          "Ccy": "IDR"
+        },
+        "ChrgBr": "DEBT",
+        "Dbtr": {},
+        "DbtrAgt": {
+          "FinInstnId": {
+            "Othr": {
+              "Id": "INDOIDJA"
+            }
+          }
+        },
+        "CdtrAgt": {
+          "FinInstnId": {
+            "Othr": {
+              "Id": "CENAIDJA"
+            }
+          }
+        },
+        "Cdtr": {},
+        "CdtrAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "987654321"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

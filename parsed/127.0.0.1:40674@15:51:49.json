@@ -1,0 +1,878 @@
+{
+  "FIToFICstmrCdtTrf": {
+    "GrpHdr": {
+      "MsgId": "20210301INDOIDJA51012345678",
+      "CreDtTm": "2021-03-01T19:00:00Z",
+      "NbOfTxs": "1",
+      "TtlIntrBkSttlmAmt": {
+        "Value": "0",
+        "Ccy": ""
+      },
+      "IntrBkSttlmDt": "0001-01-01Z",
+      "SttlmInf": {
+        "SttlmMtd": "CLRG",
+        "SttlmAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "ClrSys": {},
+        "InstgRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "InstgRmbrsmntAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "InstdRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "InstdRmbrsmntAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "ThrdRmbrsmntAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "thrd-rmbrsmnt-agt-acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        }
+      },
+      "PmtTpInf": {
+        "LclInstrm": {},
+        "CtgyPurp": {}
+      },
+      "InstgAgt": {
+        "FinInstnId": {
+          "ClrSysMmbId": {
+            "ClrSysId": {
+              "Cd": "",
+              "Prtry": ""
+            },
+            "MmbId": ""
+          },
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Othr": {
+            "Id": "",
+            "SchmeNm": {}
+          }
+        },
+        "BrnchId": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          }
+        }
+      },
+      "InstdAgt": {
+        "FinInstnId": {
+          "ClrSysMmbId": {
+            "ClrSysId": {
+              "Cd": "",
+              "Prtry": ""
+            },
+            "MmbId": ""
+          },
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Othr": {
+            "Id": "",
+            "SchmeNm": {}
+          }
+        },
+        "BrnchId": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "CdtTrfTxInf": [
+      {
+        "PmtId": {
+          "EndToEndId": "20210301INDOIDJA510ORB12345678",
+          "TxId": "20210301INDOIDJA11012345678"
+        },
+        "PmtTpInf": {
+          "LclInstrm": {},
+          "CtgyPurp": {}
+        },
+        "IntrBkSttlmAmt": {
+          "Value": "1234.56",
+          "Ccy": "IDR"
+        },
+        "IntrBkSttlmDt": "0001-01-01Z",
+        "SttlmTmIndctn": {
+          "DbtDtTm": "0001-01-01T00:00:00Z",
+          "CdtDtTm": "0001-01-01T00:00:00Z"
+        },
+        "SttlmTmReq": {
+          "CLSTm": "00:00:00Z",
+          "TillTm": "00:00:00Z",
+          "fr-tm": "00:00:00Z",
+          "RjctTm": "00:00:00Z"
+        },
+        "AccptncDtTm": "0001-01-01T00:00:00Z",
+        "PoolgAdjstmntDt": "0001-01-01Z",
+        "InstdAmt": {
+          "Value": "0",
+          "Ccy": ""
+        },
+        "ChrgBr": "DEBT",
+        "MndtRltdInf": {
+          "Tp": {
+            "SvcLvl": {},
+            "LclInstrm": {},
+            "CtgyPurp": {},
+            "Clssfctn": {}
+          },
+          "DtOfSgntr": "0001-01-01Z",
+          "DtOfVrfctn": "0001-01-01T00:00:00Z",
+          "FrstPmtDt": "0001-01-01Z",
+          "FnlPmtDt": "0001-01-01Z",
+          "Frqcy": {
+            "Prd": {
+              "Tp": "",
+              "CntPerPrd": 0
+            },
+            "PtInTm": {
+              "Tp": "",
+              "PtInTm": ""
+            }
+          },
+          "Rsn": {}
+        },
+        "PrvsInstgAgt1": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "PrvsInstgAgt1Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "PrvsInstgAgt2": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "PrvsInstgAgt2Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "PrvsInstgAgt3": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "PrvsInstgAgt3Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "InstgAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "InstdAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "IntrmyAgt1": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "IntrmyAgt1Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "IntrmyAgt2": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "IntrmyAgt2Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "IntrmyAgt3": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "IntrmyAgt3Acct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "UltmtDbtr": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Id": {
+            "OrgId": {},
+            "PrvtId": {
+              "DtAndPlcOfBirth": {
+                "BirthDt": "0001-01-01Z",
+                "CityOfBirth": "",
+                "CtryOfBirth": ""
+              }
+            }
+          },
+          "CtctDtls": {}
+        },
+        "InitgPty": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Id": {
+            "OrgId": {},
+            "PrvtId": {
+              "DtAndPlcOfBirth": {
+                "BirthDt": "0001-01-01Z",
+                "CityOfBirth": "",
+                "CtryOfBirth": ""
+              }
+            }
+          },
+          "CtctDtls": {}
+        },
+        "Dbtr": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Id": {
+            "OrgId": {},
+            "PrvtId": {
+              "DtAndPlcOfBirth": {
+                "BirthDt": "0001-01-01Z",
+                "CityOfBirth": "",
+                "CtryOfBirth": ""
+              }
+            }
+          },
+          "CtctDtls": {}
+        },
+        "DbtrAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "DbtrAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "INDOIDJA",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "DbtrAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "CdtrAgt": {
+          "FinInstnId": {
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "",
+                "Prtry": ""
+              },
+              "MmbId": ""
+            },
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            },
+            "Othr": {
+              "Id": "CENAIDJA",
+              "SchmeNm": {}
+            }
+          },
+          "BrnchId": {
+            "PstlAdr": {
+              "AdrTp": {
+                "Prtry": {
+                  "Id": "",
+                  "Issr": ""
+                }
+              }
+            }
+          }
+        },
+        "CdtrAgtAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "Cdtr": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Id": {
+            "OrgId": {},
+            "PrvtId": {
+              "DtAndPlcOfBirth": {
+                "BirthDt": "0001-01-01Z",
+                "CityOfBirth": "",
+                "CtryOfBirth": ""
+              }
+            }
+          },
+          "CtctDtls": {}
+        },
+        "CdtrAcct": {
+          "Id": {
+            "Othr": {
+              "Id": "987654321",
+              "SchmeNm": {}
+            }
+          },
+          "Tp": {},
+          "Prxy": {
+            "Tp": {},
+            "Id": ""
+          }
+        },
+        "UltmtCdtr": {
+          "PstlAdr": {
+            "AdrTp": {
+              "Prtry": {
+                "Id": "",
+                "Issr": ""
+              }
+            }
+          },
+          "Id": {
+            "OrgId": {},
+            "PrvtId": {
+              "DtAndPlcOfBirth": {
+                "BirthDt": "0001-01-01Z",
+                "CityOfBirth": "",
+                "CtryOfBirth": ""
+              }
+            }
+          },
+          "CtctDtls": {}
+        },
+        "Purp": {},
+        "Tax": {
+          "Cdtr": {},
+          "Dbtr": {
+            "Authstn": {}
+          },
+          "TtlTaxblBaseAmt": {
+            "Value": "0",
+            "Ccy": ""
+          },
+          "TtlTaxAmt": {
+            "Value": "0",
+            "Ccy": ""
+          },
+          "Dt": "0001-01-01Z"
+        },
+        "RmtInf": {}
+      }
+    ]
+  }
+}

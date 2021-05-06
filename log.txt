@@ -1,0 +1,47 @@
+2021/05/06 15:19:06 Server started at localhost:6010
+2021/05/06 15:19:37 [Conn: 127.0.0.1:40342. Time: 15:19:37. Elapsed: 0.000006s] Received new PPOB Inquiry Request
+2021/05/06 15:19:37
+2021/05/06 15:43:04 Server started at localhost:6010
+2021/05/06 15:43:23 Server started at localhost:6010
+2021/05/06 15:43:34 [Conn: 127.0.0.1:40566. Time: 15:43:34. Elapsed: 0.000041s] Received new ISO20022 Request
+2021/05/06 15:43:34
+2021/05/06 15:46:15 http: superfluous response.WriteHeader call from main.responseFormatter (main.go:98)
+2021/05/06 15:46:33 Server started at localhost:6010
+2021/05/06 15:47:12 Server started at localhost:6010
+2021/05/06 15:47:28 Server started at localhost:6010
+2021/05/06 15:47:32 [Conn: 127.0.0.1:40622. Time: 15:47:32. Elapsed: 0.000044s] Received new ISO20022 Request
+2021/05/06 15:47:32 Error unmarshal JSON: json: cannot unmarshal string into Go struct field ActiveCurrencyAndAmount.BusMsg.Document.FIToFICstmrCdtTrf.CdtTrfTxInf.IntrBkSttlmAmt.Value of type float64
+2021/05/06 15:50:59 Server started at localhost:6010
+2021/05/06 15:51:05 [Conn: 127.0.0.1:40664. Time: 15:51:05. Elapsed: 0.000039s] Received new ISO20022 Request
+2021/05/06 15:51:46 Server started at localhost:6010
+2021/05/06 15:51:49 [Conn: 127.0.0.1:40674. Time: 15:51:49. Elapsed: 0.000010s] Received new ISO20022 Request
+2021/05/06 15:51:49 Creating new file
+2021/05/06 15:51:49 File created!
+2021/05/06 15:55:59 Server started at localhost:6010
+2021/05/06 15:56:07 [Conn: 127.0.0.1:40698. Time: 15:56:07. Elapsed: 0.000005s] Received new ISO20022 Request
+2021/05/06 15:56:07 Creating new file
+2021/05/06 15:56:07 File created!
+2021/05/06 16:13:48 Server started at localhost:6010
+2021/05/06 16:13:55 [Conn: 127.0.0.1:40800. Time: 16:13:55. Elapsed: 0.000007s] Received new ISO20022 Request
+2021/05/06 16:13:55 Creating new file
+2021/05/06 16:13:55 File created!
+2021/05/06 16:18:07 [Conn: 127.0.0.1:40800. Time: 16:18:07. Elapsed: 0.000007s] Received new ISO20022 Request
+2021/05/06 16:18:07 Error unmarshal JSON: parsing time "2021-03-19T00:00:00" as "2006-01-02Z07:00": cannot parse ":00" as "Z07:00"
+2021/05/06 16:18:29 [Conn: 127.0.0.1:40800. Time: 16:18:29. Elapsed: 0.000009s] Received new ISO20022 Request
+2021/05/06 16:18:29 Error unmarshal JSON: parsing time "2021-03-19T00:00:00" as "2006-01-02Z07:00": cannot parse ":00" as "Z07:00"
+2021/05/06 16:23:38 [Conn: 127.0.0.1:40800. Time: 16:23:38. Elapsed: 0.000007s] Received new ISO20022 Request
+2021/05/06 16:23:38 Creating new file
+2021/05/06 16:23:38 File created!
+2021/05/06 16:26:43 [Conn: 127.0.0.1:40800. Time: 16:26:43. Elapsed: 0.000005s] Received new ISO20022 Request
+2021/05/06 16:26:43 Error unmarshal JSON: parsing time "2021-03-19T00:00:00" as "2006-01-02Z07:00": cannot parse ":00" as "Z07:00"
+2021/05/06 16:27:11 [Conn: 127.0.0.1:40800. Time: 16:27:11. Elapsed: 0.000008s] Received new ISO20022 Request
+2021/05/06 16:27:11 Error unmarshal JSON: parsing time "2021-03-19Z00:00": extra text: "00:00"
+2021/05/06 16:27:28 [Conn: 127.0.0.1:40800. Time: 16:27:28. Elapsed: 0.000010s] Received new ISO20022 Request
+2021/05/06 16:27:28 Error unmarshal JSON: parsing time "2021-03-19Z00:00:00": extra text: "00:00:00"
+2021/05/06 16:27:36 [Conn: 127.0.0.1:40800. Time: 16:27:36. Elapsed: 0.000006s] Received new ISO20022 Request
+2021/05/06 16:27:36 Error unmarshal JSON: parsing time "2021-03-19T00:00:00" as "2006-01-02Z07:00": cannot parse ":00" as "Z07:00"
+2021/05/06 16:27:57 [Conn: 127.0.0.1:40800. Time: 16:27:57. Elapsed: 0.000007s] Received new ISO20022 Request
+2021/05/06 16:27:57 Error unmarshal JSON: parsing time "2006-01-02Z07:00": extra text: "07:00"
+2021/05/06 16:28:07 [Conn: 127.0.0.1:40800. Time: 16:28:07. Elapsed: 0.000006s] Received new ISO20022 Request
+2021/05/06 16:28:07 Creating new file
+2021/05/06 16:28:07 File created!
